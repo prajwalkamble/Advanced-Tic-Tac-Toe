@@ -1,4 +1,6 @@
-# Advanced-Tic-Tac-Toe
+# Advanced Tic-Tac-Toe
+
+Advanced Tic-Tac-Toe game created with python and tkinter with attractive and easy to play GUI.
 
 ### RULES FOR TIC-TAC-TOE  
 1. The game is played on a grid that's 3 squares by 3 squares.  
